@@ -1,0 +1,12 @@
+name: fintechproject
+title: fintechproject
+username: agnesmakayy
+account: agnesmakayy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16122756
+bundleId: 11205094
+url: https://agnesmakayy.shinyapps.io/fintechproject/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
